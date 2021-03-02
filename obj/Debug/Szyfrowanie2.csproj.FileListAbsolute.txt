@@ -1,0 +1,12 @@
+C:\Users\Michał\source\repos\Szyfrowanie2\bin\Debug\Szyfrowanie2.exe.config
+C:\Users\Michał\source\repos\Szyfrowanie2\bin\Debug\Szyfrowanie2.exe
+C:\Users\Michał\source\repos\Szyfrowanie2\bin\Debug\Szyfrowanie2.pdb
+C:\Users\Michał\source\repos\Szyfrowanie2\obj\Debug\Szyfrowanie2.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Szyfrowanie2\obj\Debug\Szyfrowanie2.exe
+C:\Users\Michał\source\repos\Szyfrowanie2\obj\Debug\Szyfrowanie2.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\Szyfrowanie2\bin\Debug\Szyfrowanie2.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\Szyfrowanie2\bin\Debug\Szyfrowanie2.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\Szyfrowanie2\bin\Debug\Szyfrowanie2.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\Szyfrowanie2\obj\Debug\Szyfrowanie2.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\Szyfrowanie2\obj\Debug\Szyfrowanie2.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\Szyfrowanie2\obj\Debug\Szyfrowanie2.pdb
